@@ -34,4 +34,4 @@ The project follows a systematic pipeline to deliver high-quality financial anal
 - `output`: The directory where the final analysis files are saved.
 
 ### Example Output
-The output is a markdown file containing a detailed financial analysis based on the user's query. Examples are provided in the `output/` directory, such as SBET_summarize_sharplink_gaming_incs_strategy_2025_08_21.md.
+The output is a markdown file containing a detailed financial analysis based on the user's query. Examples are provided in the `output/` directory, such as `SBET_summarize_sharplink_gaming_incs_strategy_2025_08_21.md`.
