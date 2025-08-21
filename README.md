@@ -1,4 +1,6 @@
 # AI-Powered SEC Filing Analysis
+[View the interactive workflow diagram here](https://honcyeung.github.io/AI-Powered-SEC-Filing-Analysis/)
+
 This project automates the analysis of SEC filings using a Retrieval-Augmented Generation (RAG) pipeline. It fetches financial data directly from the SEC, processes it, and leverages a large language model to provide insightful answers to complex financial questions.
 
 ## Features
