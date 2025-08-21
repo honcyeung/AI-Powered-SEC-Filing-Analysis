@@ -29,7 +29,7 @@ The project follows a systematic pipeline to deliver high-quality financial anal
 ### Project Structure
 - `main.ipynb`: The primary notebook that orchestrates the entire workflow from data scraping to analysis generation.
 - `data_scraping.ipynb`: Contains all functions related to scraping, cleaning, and chunking SEC filings.
-- `data_retrieval.ipynb`: Manages the storage of data in Firestore and the deployment of the Vertex AI Vector Search index.
+- `data_management.ipynb`: Manages the storage of data in Firestore and the deployment of the Vertex AI Vector Search index.
 - `data_augmentation.ipynb`: Implements the retrieval component of the RAG pipeline, identifying relevant text chunks for a given query.
 - `output`: The directory where the final analysis files are saved.
 
